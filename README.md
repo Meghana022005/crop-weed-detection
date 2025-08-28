@@ -13,6 +13,7 @@ Other necessary libraries and tools for dataset handling and model training.
 ## Project Structure
 Organized project files for dataset handling, training, and prediction.
 Clear modular code to ease installation, usage, and future improvements.
+
 crop-weed-detector/
 │
 ├── datasets/
@@ -36,6 +37,7 @@ crop-weed-detector/
 ├── predict.py                  # Run inference on new images
 ├── requirements.txt            # Dependencies
 └── README.md                   # Documentation
+
 ## Setup & Installation
 Clone the repository to your local system.
 Create and activate a virtual environment to manage dependencies.
