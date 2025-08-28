@@ -1,4 +1,4 @@
-# crop-weed-detection
+# crop-weed-detection using YOLOv8
 ## Introdution
 Crop and weed detection is a deep learning-based solution for real-time crop and weed identification in agricultural fields. Using an object detection model like YOLOv8, the system can accurately distinguish crops from weeds based on image data. This technology is a part of precision agriculture aims to significantly reduce herbicide usage, lower operational costs, and lead to healthier crops and higher yields
 ## Key Features
